@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task8_Serialization_\Task8_Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task8_Serialization_\Task8_Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task8_Serialization_\Task8_Serialization\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task8_Serialization_\Task8_Serialization\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task8_Serialization_\Task8_Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task8_Serialization_\Task8_Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task8_Serialization_\Task8_Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task8_Serialization_\Task8_Serialization\Serialization\obj\Debug\Serialization.pdb
